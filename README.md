@@ -44,8 +44,8 @@ Key findings from EDA:
 - **Business Alignment:** Define operational KPI such as “% of orders predicted within ±12h of actual time” to translate model accuracy into business value.
 
 #### Outline of project
-
-- [Link to notebook 1]()
+https://github.com/jing-li528/supplychain-predictive-analytics/blob/main/capstone_initial_EDA.ipynb
 
 
 ##### Contact and Further Information
+jing.li5282013@gmail.com
