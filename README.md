@@ -39,8 +39,8 @@ Key findings from EDA:
 **Visuals** <br>
 ![Shipping Time by Shipment Mode](ship_mode.png) <br>
 ![Route and Company combinations](route_company_combination.png) <br>
-![Shipping Time vs Gross Weight](route_company_combination.png) <br>
-![Shipping Time vs Gross Cost](route_company_combination.png) <br>
+![Shipping Time vs Gross Weight](shipping_vs_gw.png) <br>
+![Shipping Time vs Gross Cost](shipping_vs_gc.png) <br>
 
 #### Next steps
 - **Feature Engineering:** Convert `cut_off_time`, `tat`, and `processing_days` into numerical or categorical features (e.g., weekday flags, minutes past midnight).  
