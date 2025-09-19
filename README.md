@@ -36,6 +36,12 @@ Key findings from EDA:
 - **Numeric drivers (gross_weight, freight_cost)** show weaker but noticeable correlation with shipping time, suggesting larger/heavier shipments can have slightly longer transit.  
 - Missing values are minimal for most key features, so data is relatively clean for modeling.
 
+**Visuals** <br>
+![Shipping Time by Shipment Mode](ship_mode.png) <br>
+![Route and Company combinations](route_company_combination.png) <br>
+![Shipping Time vs Gross Weight](route_company_combination.png) <br>
+![Shipping Time vs Gross Cost](route_company_combination.png) <br>
+
 #### Next steps
 - **Feature Engineering:** Convert `cut_off_time`, `tat`, and `processing_days` into numerical or categorical features (e.g., weekday flags, minutes past midnight).  
 - **Modeling:** Build baseline supervised regression models (Linear Regression, Random Forest, XGBoost) to predict `shipping_time`.  
