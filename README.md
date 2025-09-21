@@ -52,6 +52,8 @@ Key findings from EDA:
 #### Outline of project
 https://github.com/jing-li528/supplychain-predictive-analytics/blob/main/capstone_initial_EDA.ipynb
 
+#### Final Capstone Project with Modeling and Results
+https://github.com/jing-li528/supplychain-capstone-final
 
 ##### Contact and Further Information
 jing.li5282013@gmail.com
